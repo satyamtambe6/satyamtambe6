@@ -1,3 +1,6 @@
+<div align="center">
+  <img height="200" src="https://github.com/satyamtambe6/banner/blob/main/github-header-banner.png"  />
+</div>
 <h1 align="center">Hi 👋, I'm satyam arun tambe</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
