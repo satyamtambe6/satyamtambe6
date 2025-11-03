@@ -53,7 +53,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
 </div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamtambe6code&show_icons=true&locale=en" alt="satyamtambe6code" /></p>
+
 
 
 
