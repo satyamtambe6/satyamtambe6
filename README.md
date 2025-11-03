@@ -58,12 +58,3 @@
 
 
 
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/satyamtambe6/satyamtambe6/output/snake.svg" alt="Snake animation" />
-
-###
