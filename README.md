@@ -2,7 +2,7 @@
   <img height="200" src="https://github.com/satyamtambe6/banner/blob/main/github-header-banner.png"  />
 </div>
 <h1 align="center">Hi 👋, I'm Satyam Tambe</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate DSA  from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamtambe6code&label=Profile%20views&color=0e75b6&style=flat" alt="satyamtambe6code" /> </p>
 
